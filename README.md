@@ -36,6 +36,17 @@ FinAlgoritmo
 
 **3.** Hacer un programa que imprima la suma de los 100 primeros números. 
 
+```
+Algoritmo contador_suma
+	contador<-0
+	Mientras contador<=100 Hacer
+		numSuma=numSuma+contador
+		contador=contador+1
+		Escribir numSuma
+	Fin Mientras
+FinAlgoritmo
+```
+
 **4.** Hacer un pseudocódigo que imprima todos los números naturales que hay desde el 0 hasta un número que introducimos por teclado. 
 
 **5.** Introducir un numero por teclado. Que nos diga si es positivo o negativo. 

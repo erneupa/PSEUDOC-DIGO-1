@@ -76,7 +76,20 @@ FinAlgoritmo
 
 **6.** Programa donde introducimos tantas frases como queramos (el usuario) y contarlas. 
 
-**7.** Imprimir y contar los múltiplos de 3 desde 0 hasta un número que introducimos por teclado. 
+**7.** Imprimir y contar los múltiplos de 3 desde 0 hasta un número que introducimos por teclado.
+
+```
+Algoritmo multiplos_tres
+	Escribir "Escribe un numero"
+	Leer numUsuario
+	contador<-0
+	Mientras  contador<=numUsuario Hacer
+		Escribir 3*contador
+		contador=contador+1
+	Fin Mientras
+FinAlgoritmo
+
+```
 
 **8.** Hacer un pseudocódigo que imprima el mayor y el menor de una serie de cinco números que vamos introduciendo por teclado. 
 

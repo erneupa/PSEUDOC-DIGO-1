@@ -19,6 +19,21 @@ FinAlgoritmo
 ```
 **2.** Hacer un pseudocódigo que imprima los números impares entre 0 y 100. 
 
+```
+Algoritmo contador_impares
+	contador<-0
+	Mientras contador<=100 Hacer
+		Si contador%2<>0 Entonces
+			Escribir contador
+			contador=contador+1
+		SiNo
+			contador=contador+1
+		Fin Si
+	Fin Mientras
+FinAlgoritmo
+
+```
+
 **3.** Hacer un programa que imprima la suma de los 100 primeros números. 
 
 **4.** Hacer un pseudocódigo que imprima todos los números naturales que hay desde el 0 hasta un número que introducimos por teclado. 

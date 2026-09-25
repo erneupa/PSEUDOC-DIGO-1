@@ -61,6 +61,18 @@ FinAlgoritmo
 ```
 
 **5.** Introducir un numero por teclado. Que nos diga si es positivo o negativo. 
+```
+Algoritmo positivo_negativo
+	Escribir "Escribe un numero"
+	Leer numUsuario
+	Si numUsuario<0 Entonces
+		Escribir numUsuario, " es negativo"
+	SiNo
+		Escribir numUsuario, " es positivo"
+	Fin Si
+FinAlgoritmo
+
+```
 
 **6.** Programa donde introducimos tantas frases como queramos (el usuario) y contarlas. 
 

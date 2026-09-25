@@ -16,7 +16,7 @@ Algoritmo contador_inverso
 	Fin Mientras
 FinAlgoritmo
 
-´´´
+```
 **2.** Hacer un pseudocódigo que imprima los números impares entre 0 y 
 100. 
 **3.** Hacer un programa que imprima la suma de los 100 primeros 

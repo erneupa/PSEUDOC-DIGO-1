@@ -7,7 +7,7 @@ planteado.
 
 **1.** Hacer un pseudocódigo que imprima los números del 100 al 0, en 
 orden decreciente. 
-'''
+```
 Algoritmo contador_inverso
 	contador<-100
 	Mientras contador>=0 Hacer
@@ -16,7 +16,7 @@ Algoritmo contador_inverso
 	Fin Mientras
 FinAlgoritmo
 
-'''
+´´´
 **2.** Hacer un pseudocódigo que imprima los números impares entre 0 y 
 100. 
 **3.** Hacer un programa que imprima la suma de los 100 primeros 

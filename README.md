@@ -48,6 +48,17 @@ FinAlgoritmo
 ```
 
 **4.** Hacer un pseudocódigo que imprima todos los números naturales que hay desde el 0 hasta un número que introducimos por teclado. 
+```
+Algoritmo imprimir_naturales
+	contador<-0
+	Escribir "Escribe un numero natural"
+	Leer numUsuario
+	Mientras contador<=numUsuario Hacer
+		Escribir contador
+		contador=contador+1
+	Fin Mientras
+FinAlgoritmo
+```
 
 **5.** Introducir un numero por teclado. Que nos diga si es positivo o negativo. 
 

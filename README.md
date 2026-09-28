@@ -74,7 +74,29 @@ FinAlgoritmo
 
 ```
 
-**6.** Programa donde introducimos tantas frases como queramos (el usuario) y contarlas. 
+**6.** Programa donde introducimos tantas frases como queramos (el usuario) y contarlas.
+
+```
+Algoritmo cadenas_escribir
+	seguir=1
+	Mientras seguir=1 Hacer
+		Escribir "Escribe una frase"
+		Leer frase
+		
+		Escribir "Quieres seguir?? 1(seguir)/2(salir)"
+		Leer respuesta
+		Si respuesta<>1 Entonces
+			seguir=2
+			
+		SiNo
+			seguir=1
+		FinSi
+	FinMientras
+FinAlgoritmo
+
+
+```
+!(SDX)[]
 
 **7.** Imprimir y contar los múltiplos de 3 desde 0 hasta un número que introducimos por teclado.
 

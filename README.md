@@ -125,7 +125,49 @@ FinAlgoritmo
 **9.** Introducir dos números por teclado. Imprimir los números naturales que hay entre ambos números empezando por el más pequeño, 
 contar cuantos hay y cuantos de ellos son pares. Calcular la suma de los impares.
 
+```
+Algoritmo imprimir_entre_pares
+	
+	Escribir "Escribe el primer número"
+	Leer num1
+	Escribir "Escribir el segundo número"
+	Leer num2
+	
+	Si num1<num2 Entonces
+		numMin<-num1
+		numMax<-num2
+		
+	SiNo
+		numMin<-num2
+		numMax<-num1
+	FinSi
+	
+	Mientras  numMin<=numMax Hacer
+		Escribir numMin
+		
+		Si numMin%2=0 Entonces
+			esPar=esPar+1
+			numMin=numMin+1
+			
+		SiNo
+			sumaImpar=sumaImpar+numMin
+			numMin=numMin+1
+		FinSi
+		totalNum=totalNum+1
 
+	
+		
+		
+	Fin Mientras
+	
+	Escribir "--------------------------------------------------------------------"
+	Escribir "Total de números: ",totalNum
+	Escribir "Total de números pares: ",esPar
+	Escribir "Total suma impares: ",sumaImpar
+FinAlgoritmo
+
+
+```
 **10.** Imprimir diez veces la serie de números del 1 al 10.
 ```
 Algoritmo imprimir_diez

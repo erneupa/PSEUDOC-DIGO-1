@@ -17,6 +17,8 @@ Algoritmo contador_inverso
 FinAlgoritmo
 
 ```
+
+![1](https://github.com/erneupa/PSEUDOC-DIGO-1/blob/main/contador_inverso.png)
 **2.** Hacer un pseudocódigo que imprima los números impares entre 0 y 100. 
 
 ```

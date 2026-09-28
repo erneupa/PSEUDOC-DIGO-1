@@ -203,10 +203,11 @@ Algoritmo imprimir_entre_pares
 	Escribir "Total suma impares: ",sumaImpar
 FinAlgoritmo
 
+```
 
 ![9](https://github.com/erneupa/PSEUDOC-DIGO-1/blob/main/imprimir_entre_pares.png)
 
-```
+
 **10.** Imprimir diez veces la serie de números del 1 al 10.
 ```
 Algoritmo imprimir_diez

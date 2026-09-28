@@ -97,3 +97,18 @@ FinAlgoritmo
 contar cuantos hay y cuantos de ellos son pares. Calcular la suma de los impares. 
 
 **10.** Imprimir diez veces la serie de números del 1 al 10.
+```Algoritmo imprimir_diez
+	contador<-1
+	contadorSerie<-1
+	
+	Mientras contadorSerie<=10 Hacer
+		Escribir "Serie ", contadorSerie
+		contador<-1
+		Mientras contador<=10 Hacer
+			Escribir contador
+			contador=contador+1
+		FinMientras
+		contadorSerie=contadorSerie+1
+	FinMientras
+	
+FinAlgoritmo```

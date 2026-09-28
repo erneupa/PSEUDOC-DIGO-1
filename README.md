@@ -123,7 +123,8 @@ Algoritmo mayor_menor
 FinAlgoritmo
 ```
 **9.** Introducir dos números por teclado. Imprimir los números naturales que hay entre ambos números empezando por el más pequeño, 
-contar cuantos hay y cuantos de ellos son pares. Calcular la suma de los impares. 
+contar cuantos hay y cuantos de ellos son pares. Calcular la suma de los impares.
+
 
 **10.** Imprimir diez veces la serie de números del 1 al 10.
 ```

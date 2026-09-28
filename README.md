@@ -35,7 +35,7 @@ Algoritmo contador_impares
 FinAlgoritmo
 
 ```
-
+![2](https://github.com/erneupa/PSEUDOC-DIGO-1/blob/main/contador_impares.png)
 **3.** Hacer un programa que imprima la suma de los 100 primeros números. 
 
 ```

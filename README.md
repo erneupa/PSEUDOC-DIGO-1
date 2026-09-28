@@ -96,7 +96,7 @@ FinAlgoritmo
 
 
 ```
-!(SDX)[https://github.com/erneupa/PSEUDOC-DIGO-1/blob/main/cadenas_escribir.png]
+![6](https://github.com/erneupa/PSEUDOC-DIGO-1/blob/main/cadenas_escribir.png)
 
 **7.** Imprimir y contar los múltiplos de 3 desde 0 hasta un número que introducimos por teclado.
 

@@ -233,6 +233,27 @@ FinAlgoritmo
 **11.** Hacer un pseudocodigo que cuente las veces que aparece una
 determinada letra en una frase que introduciremos por teclado.
 
+```
+Algoritmo contar_letra_frase
+	
+	Escribir "Escribe una frase"
+	Leer fraseUsuario
+	
+	Escribir "Escribe una letra"
+	Leer letra
+	contador<-0
+	PARA i DESDE i HASTA LONGITUD(fraseUsuario) HACER
+		si subcadena(fraseUsuario,i,i)=letra Entonces
+			
+			contador<-contador+1
+		FinSi
+		
+		 
+	Fin Para
+	ESCRIBIR "La letra ", letra, " aparece ", contador, " veces en la frase."
+FinAlgoritmo
+
+```
 
 **12.** Calcular la factorial de un número.
 

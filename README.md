@@ -257,6 +257,26 @@ FinAlgoritmo
 
 **12.** Calcular la factorial de un número.
 
+```
+
+Algoritmo calcular_factorial
+	
+	Escribir "Escribe el número que quieres calcular"
+	Leer numeroUsuario
+	
+	i=1
+	contador=1
+	PARA i DESDE i HASTA numeroUsuario HACER
+		Escribir i
+		contador=contador*i
+		 
+	Fin Para
+	
+	Escribir "El factorial de ", numeroUsuario, " es ", contador
+	
+FinAlgoritmo
+```
+
 ![10](https://github.com/erneupa/PSEUDOC-DIGO-1/blob/main/imprimir_die.png)
 
 **13.** Hacer un pseudocodigo que simule el funcionamiento de un reloj

@@ -230,3 +230,26 @@ FinAlgoritmo
 ![10](https://github.com/erneupa/PSEUDOC-DIGO-1/blob/main/imprimir_diez.png)
 
 
+**11.** Hacer un pseudocodigo que cuente las veces que aparece una
+determinada letra en una frase que introduciremos por teclado.
+
+
+**12.** Calcular la factorial de un número.
+
+![10](https://github.com/erneupa/PSEUDOC-DIGO-1/blob/main/imprimir_die.png)
+
+**13.** Hacer un pseudocodigo que simule el funcionamiento de un reloj
+digital y que permita poner la hora, minuto y segundos.
+
+![10](https://github.com/erneupa/PSEUDOC-DIGO-1/blob/main/imprimir_die.png)
+
+**14.** Introducir una frase por teclado. Imprimirla cinco veces en filas
+consecutivas, pero cada impresión ir desplazada cuatro columnas
+hacia la derecha.
+
+![10](https://github.com/erneupa/PSEUDOC-DIGO-1/blob/main/imprimir_die.png)
+
+**15.** Comprobar si un número mayor o igual que la unidad es primo.
+
+![10](https://github.com/erneupa/PSEUDOC-DIGO-1/blob/main/imprimir_die.png)
+

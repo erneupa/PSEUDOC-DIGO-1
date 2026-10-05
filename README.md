@@ -292,5 +292,35 @@ hacia la derecha.
 
 **15.** Comprobar si un número mayor o igual que la unidad es primo.
 
+```
+Algoritmo primoCompuesto
+	Escribir "Introduce un número entero mayor o igual que 1"
+	Leer numeroUsuario
+	contador=1
+	contardiv=0
+	Mientras numeroUsuario<1 Hacer
+		Escribir "Has escrito un número menor que 1, vuelve a intentarlo"
+		Leer numeroUsuario
+	Fin Mientras
+	Escribir numeroUsuario
+
+	Mientras contador<=numeroUsuario
+		Si numeroUsuario%contador=0 Entonces
+			contardiv=contardiv+1		
+	Fin Si
+	
+		contador=contador+1
+	Fin Mientras
+	
+	Si contardiv>2 o numeroUsuario=1
+		Escribir "Es compuesto"
+	SiNo
+		Escribir "Es primo"
+	FinSi
+	
+Fin Algoritmo
+
+```
+
 ![10](https://github.com/erneupa/PSEUDOC-DIGO-1/blob/main/imprimir_die.png)
 

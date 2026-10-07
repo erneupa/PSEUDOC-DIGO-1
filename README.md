@@ -288,6 +288,27 @@ digital y que permita poner la hora, minuto y segundos.
 consecutivas, pero cada impresión ir desplazada cuatro columnas
 hacia la derecha.
 
+```
+Algoritmo frase_espacio
+	
+    Escribir "Introduce una frase:"
+    Leer frase
+	Definir i, j, totalEspacios Como Entero
+    Para i <- 0 Hasta 4 Hacer
+        espacios <- ""
+        totalEspacios <- i * 4
+        
+        Para j <- 1 Hasta totalEspacios Hacer
+            espacios <- espacios + " "
+        FinPara
+        
+        Escribir espacios + frase
+    FinPara
+    
+FinAlgoritmo
+
+```
+
 ![10](https://github.com/erneupa/PSEUDOC-DIGO-1/blob/main/imprimir_die.png)
 
 **15.** Comprobar si un número mayor o igual que la unidad es primo.

@@ -255,6 +255,8 @@ FinAlgoritmo
 
 ```
 
+![11](https://github.com/erneupa/PSEUDOC-DIGO-1/blob/main/contar_letra_frase.png)
+
 **12.** Calcular la factorial de un número.
 
 ```
@@ -277,12 +279,12 @@ Algoritmo calcular_factorial
 FinAlgoritmo
 ```
 
-![10](https://github.com/erneupa/PSEUDOC-DIGO-1/blob/main/imprimir_die.png)
+![12](https://github.com/erneupa/PSEUDOC-DIGO-1/blob/main/calcular_factorial.png)
 
 **13.** Hacer un pseudocodigo que simule el funcionamiento de un reloj
 digital y que permita poner la hora, minuto y segundos.
 
-![10](https://github.com/erneupa/PSEUDOC-DIGO-1/blob/main/imprimir_die.png)
+![13](https://github.com/erneupa/PSEUDOC-DIGO-1/blob/main/reloj.png)
 
 **14.** Introducir una frase por teclado. Imprimirla cinco veces en filas
 consecutivas, pero cada impresión ir desplazada cuatro columnas
@@ -309,7 +311,7 @@ FinAlgoritmo
 
 ```
 
-![10](https://github.com/erneupa/PSEUDOC-DIGO-1/blob/main/imprimir_die.png)
+![14](https://github.com/erneupa/PSEUDOC-DIGO-1/blob/main/frase_espacio.png)
 
 **15.** Comprobar si un número mayor o igual que la unidad es primo.
 
@@ -343,5 +345,5 @@ Fin Algoritmo
 
 ```
 
-![10](https://github.com/erneupa/PSEUDOC-DIGO-1/blob/main/imprimir_die.png)
+![15](https://github.com/erneupa/PSEUDOC-DIGO-1/blob/main/primoCompuesto.png)
 
